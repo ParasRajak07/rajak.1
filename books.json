@@ -1,0 +1,9 @@
+[
+    {
+        "book_id": "p001",
+        "book_name": "maths",
+        "author": "jk",
+        "category": "eng.",
+        "available_copies": 5
+    }
+]
